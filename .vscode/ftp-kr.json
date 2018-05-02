@@ -1,0 +1,15 @@
+{
+    "host": "cjw.or.kr",
+    "username": "jwoo0216",
+    "remotePath": "/www/g5",
+    "protocol": "ftp",
+    "port": 21,
+    "fileNameEncoding": "utf8",
+    "autoUpload": true,
+    "autoDelete": false,
+    "autoDownload": false,
+    "ignore": [
+        ".git",
+        "/.vscode"
+    ]
+}
